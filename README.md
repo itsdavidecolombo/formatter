@@ -20,4 +20,4 @@ In this repository you can find some ready-to-use function writte in ANSI C lang
 WARNING:
 
 pay attention when using the 'decomment.c' file with 'file2' argument!!!
-Whatever the content of the file is deletede!!!
+Whatever the content of the file is, it will be deleted!!!
